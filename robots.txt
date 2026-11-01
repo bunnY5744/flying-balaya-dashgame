@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flying-balaya-dashgame.vercel.app/sitemap.xml
